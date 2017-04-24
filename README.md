@@ -13,3 +13,9 @@
 &emsp;&emsp;&emsp;想想随便了orz为了找一个小bug竟然花了大约4个小时,啊,果然我还是太弱了<br>
 
 &emsp;&emsp;&emsp;现在天都快亮了的说lol还有说明书还没做orz啊好麻烦orz<br>
+
+1.1版本(24.04.17)
+
+&emsp;&emsp;&emsp;添加了错误509情况下的应对<br>
+
+&emsp;&emsp;&emsp;解决了内存溢出导致的程序崩溃<br>
